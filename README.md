@@ -12,6 +12,6 @@ Los resultados obtenidos para el umbral de 0.5 son los siguientes:
 - Recall: 0.65
 - Precisión: 0.61
 
-**[Acceder al proyecto completo.](https://github.com/mantiads/Portfolio-Mikel/tree/main)**
+**[Acceder al proyecto completo y conclusiones.](https://github.com/mantiads/Portfolio-Mikel/tree/main)**
 
 ![Data Scienciest Malware Avproductinstalled](/assets/img/Captura.PNG){: .centrado}
