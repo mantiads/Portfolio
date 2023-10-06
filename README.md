@@ -7,6 +7,7 @@ Comenzamos analizando los datos, seleccionando y limpiando atributos para poster
 
 Una vez seleccionado el mejor modelo se entrena y se evalua.
 
-
+Acceder al proyecto completo.
+**[Acceder al proyecto completo.](https://eff.org)**.
 ![Data Scienciest Malware Avproductinstalled](/assets/img/Captura.PNG){: .centrado}
 
