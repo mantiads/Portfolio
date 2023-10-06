@@ -7,6 +7,11 @@ Comenzamos analizando los datos, seleccionando y limpiando atributos para poster
 
 Una vez seleccionado el mejor modelo se entrena y se evalua.
 
+Los resultados obtenidos para el umbral de 0.5 son los siguientes:
+Exactitud (Accuracy): 0.62
+Recall: 0.65
+Precisión: 0.61
+
 **[Acceder al proyecto completo.](https://github.com/mantiads/Portfolio-Mikel/tree/main)**
 
 ![Data Scienciest Malware Avproductinstalled](/assets/img/Captura.PNG){: .centrado}
