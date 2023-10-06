@@ -8,6 +8,7 @@ Comenzamos analizando los datos, seleccionando y limpiando atributos para poster
 Una vez seleccionado el mejor modelo se entrena y se evalua.
 
 Acceder al proyecto completo.
-**[Acceder al proyecto completo.](https://eff.org)**.
+**[Acceder al proyecto completo.](https://github.com/mantiads/Portfolio-Mikel/tree/main)**.
 ![Data Scienciest Malware Avproductinstalled](/assets/img/Captura.PNG){: .centrado}
 
+https://github.com/mantiads/Portfolio-Mikel/tree/main
