@@ -5,3 +5,6 @@ Este proyecto en colaboración entre Kaggle y Microsoft se enfoca en la predicci
 
 ![Data Scienciest Malware Avproductinstalled](/assets/img/Captura.PNG){: .centrado}
 
+<p align="center">
+  <img src="/assets/img/Captura.PNG" alt="Data Scienciest Malware Avproductinstalled">
+</p>
