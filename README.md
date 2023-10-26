@@ -9,7 +9,7 @@ Inicialmente profundizaremos sobre la entrada de nuevos clientes, la tipologia d
 
 **[Acceder al proyecto completo y conclusiones.](https://github.com/mantiads/Portfolio-Mikel/tree/main)**
 ![Data Analytics](/assets/img/10_dist_geo_treemap.png){: .centrado}
-![Data Analytics](/assets/img/6_zoom_analisis_prod_contratados_al_alta.PNG){: .centrado}
+![Data Analytics](/assets/img/6_zoom_analisis_prod_contratados_al_alta.png){: .centrado}
 
 ## Proyecto 1 (Data Science) : [Predicción de Malware (Modelo de Clasificación)](https://github.com/mantiads/Portfolio-Mikel/tree/main)
 ###### Python | Numpy | Pandas | Scikit-learn
