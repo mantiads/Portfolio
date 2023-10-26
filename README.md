@@ -1,4 +1,4 @@
-## Proyecto 2 (Data Analytics) : [Analisis con Python (En desarrollo)](https://github.com/mantiads/Portfolio-Mikel/tree/main)
+## Proyecto 2 (Data Analytics) : [Analisis con Python (En desarrollo)](https://github.com/mantiads/Portfolio-Mikel-Analytics)
 ###### Python | Numpy | Pandas | Matplotlib
 ###### Analisis de datos
 En este proyecto se analiza con Python y sus librerias de visualización de datos un DataSet de una fintech. 
