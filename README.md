@@ -5,10 +5,12 @@ En este proyecto se analiza con Python y sus librerias de visualización de dato
 
 Inicialmente profundizaremos sobre la entrada de nuevos clientes, la tipologia de clientes y productos a la captación, asi como su evolución para poder tomar las medidas oportunas.
 
+**[Acceder al proyecto completo y conclusiones.](https://github.com/mantiads/Portfolio-Mikel-Analytics)**
+
 ![Data Analytics](/assets/img/10_dist_geo_treemap.png){: .centrado}
 ![Data Analytics](/assets/img/6_zoom_analisis_prod_contratados_al_alta.png){: .centrado}
 
-**[Acceder al proyecto completo y conclusiones.](https://github.com/mantiads/Portfolio-Mikel-Analytics)**
+
 
 
 ## Proyecto 1 (Data Science) : [Predicción de Malware (Modelo de Clasificación)](https://github.com/mantiads/Portfolio-Mikel/tree/main)
