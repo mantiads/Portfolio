@@ -3,9 +3,11 @@
 ###### Analisis de datos
 En este proyecto se analiza con Python y sus librerias de visualización de datos un DataSet de una fintech. 
 
-Inicialmente profundizaremos sobre la entrada de nuevos clientes, la tipologia de clientes y productos a la captación, asi como su evolución para poder tomar las medidas oportunas.
+Comenzamos viendo la evolución en la contratación de productos a lo largo de sus 17 particiones.
+Continuamos con un análisis socio-demográfico para la última de las particiones/imágenes.
+Finalizamos profundizando en la variación de clientes y su comportamiendo de contratación a la hora de darse de alta en la empresa.
 
-**[Acceder al proyecto completo y conclusiones.](https://github.com/mantiads/Portfolio-Mikel-Analytics)**
+**[Acceder al proyecto completo.](https://github.com/mantiads/Portfolio-Mikel-Analytics)**
 
 ![Data Analytics](/assets/img/10_dist_geo_treemap.png){: .centrado}
 ![Data Analytics](/assets/img/6_zoom_analisis_prod_contratados_al_alta.png){: .centrado}
