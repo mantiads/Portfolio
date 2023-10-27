@@ -4,7 +4,9 @@
 En este proyecto se analiza con Python y sus librerias de visualización de datos un DataSet de una fintech. 
 
 Comenzamos viendo la evolución en la contratación de productos a lo largo de sus 17 particiones.
+
 Continuamos con un análisis socio-demográfico para la última de las particiones/imágenes.
+
 Finalizamos profundizando en la variación de clientes y su comportamiendo de contratación a la hora de darse de alta en la empresa.
 
 **[Acceder al proyecto completo.](https://github.com/mantiads/Portfolio-Mikel-Analytics)**
