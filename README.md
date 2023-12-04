@@ -1,4 +1,4 @@
-## Proyecto 3 (Data Science) : [Clustering](https://github.com/mantiads/Clustering/blob/main/README.md#clusters-y-perfiles)
+## Proyecto 3 (Data Science) : [Clustering](https://github.com/mantiads/Clustering/blob/main/README.md)
 ###### Python | Pandas | Sklearn | Matplotlib | Plotly | Seaborn
 ###### Selección de variables | Ingeniaria de variables | K-means | Interpretación de resultados
 
@@ -6,7 +6,7 @@ El proyecto busca clasificar clientes mediante datos socioeconómicos y comporta
 
 ![Data Analytics](/assets/img/10_dist_geo_treemap.png){: .centrado}
 
-**[Acceder al proyecto completo.](https://github.com/mantiads/Clustering/blob/main/README.md#clusters-y-perfiles)**
+**[Acceder al proyecto completo.](https://github.com/mantiads/Clustering/blob/main/README.md)**
 
 
 
