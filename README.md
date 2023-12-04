@@ -4,7 +4,7 @@
 
 El proyecto busca clasificar clientes mediante datos socioeconómicos y comportamientos de contratación. El dataset incluye información socioeconómica y de productos a lo largo del tiempo. Se aplican ingeniería de variables y el algoritmo Kmeans para crear 12 clusters con perfiles distintivos, como "Estudiante Activo Financieramente" o "Trabajador Inversionista Activo Bancariamente". Este enfoque proporciona patrones claros para la toma de decisiones estratégicas y comerciales.
 
-![Data Analytics](/assets/img/10_dist_geo_treemap.png){: .centrado}
+![Data Analytics](/assets/img/clusters.png){: .centrado}
 
 **[Acceder al proyecto completo.](https://github.com/mantiads/Clustering/blob/main/README.md)**
 
