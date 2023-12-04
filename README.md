@@ -1,10 +1,12 @@
-## Proyecto 3 (Data Science) : [Clustering](https://github.com/mantiads/Portfolio-Mikel-Analytics)
+## Proyecto 3 (Data Science) : [Clustering](https://github.com/mantiads/Clustering/blob/main/README.md#clusters-y-perfiles)
 ###### Python | Pandas | Sklearn | Matplotlib | Plotly | Seaborn
 ###### Selección de variables | Ingeniaria de variables | K-means | Interpretación de resultados
 
-Se realiza una segmentación en 12 clusters utilizando datos socioeconómicos y comportamientos sobre contratación de productos. 
+El proyecto busca clasificar clientes mediante datos socioeconómicos y comportamientos de contratación. El dataset incluye información socioeconómica y de productos a lo largo del tiempo. Se aplican ingeniería de variables y el algoritmo Kmeans para crear 12 clusters con perfiles distintivos, como "Estudiante Activo Financieramente" o "Trabajador Inversionista Activo Bancariamente". Este enfoque proporciona patrones claros para la toma de decisiones estratégicas y comerciales.
 
-**[Acceder al proyecto completo.](https://github.com/mantiads/Portfolio-Mikel-Analytics)**
+![Data Analytics](/assets/img/10_dist_geo_treemap.png){: .centrado}
+
+**[Acceder al proyecto completo.](https://github.com/mantiads/Clustering/blob/main/README.md#clusters-y-perfiles)**
 
 
 
