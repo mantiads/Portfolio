@@ -1,3 +1,15 @@
+## Proyecto 3 (Data Science) : [Clustering](https://github.com/mantiads/Portfolio-Mikel-Analytics)
+###### Python | Pandas | Sklearn | Matplotlib | Plotly | Seaborn
+###### Selección de variables | Ingeniaria de variables | K-means | Interpretación de resultados
+
+Se realiza una segmentación en 12 clusters utilizando datos socioeconómicos y comportamientos sobre contratación de productos. 
+
+**[Acceder al proyecto completo.](https://github.com/mantiads/Portfolio-Mikel-Analytics)**
+
+
+
+
+
 ## Proyecto 2 (Data Analytics) : [Analisis con Python (En desarrollo)](https://github.com/mantiads/Portfolio-Mikel-Analytics)
 ###### Python | Numpy | Pandas | Matplotlib | Plotly | Seaborn
 ###### Analisis de datos
