@@ -1,8 +1,9 @@
-## Proyecto 3 (Data Science) : [Clustering](https://github.com/mantiads/Clustering/blob/main/README.md)
+
 
 
 ![Data Analytics](/assets/img/clusters.PNG)
 
+## Proyecto 3 (Data Science) : [Clustering](https://github.com/mantiads/Clustering/blob/main/README.md)
 ###### Python | Pandas | Sklearn | Matplotlib | Plotly | Seaborn
 ###### Selección de variables | Ingeniaria de variables | K-means | Interpretación de resultados
 
