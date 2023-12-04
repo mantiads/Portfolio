@@ -1,3 +1,5 @@
+![Data Science](/assets/img/Captura2.PNG){: .centrado}
+
 ## Proyecto 3 (Data Science) : Clustering.
 ###### Python | Pandas | Sklearn | Matplotlib | Plotly | Seaborn
 ###### Selección de variables | IngeniarÍa de variables | K-means | Interpretación de resultados
@@ -6,7 +8,7 @@
 
 El proyecto busca clasificar clientes mediante datos socioeconómicos y comportamientos de contratación. El dataset incluye información socioeconómica y de productos a lo largo del tiempo. Se aplican ingeniería de variables y el algoritmo Kmeans para crear 12 clusters con perfiles distintivos, como "Estudiante Activo Financieramente" o "Trabajador Inversionista Activo Bancariamente". Este enfoque proporciona patrones claros para la toma de decisiones estratégicas y comerciales. [Acceder al proyecto completo.](https://github.com/mantiads/Clustering/blob/main/README.md)  
 
-
+![Data Science](/assets/img/Captura2.PNG){: .centrado}
 
 ## Proyecto 2 (Data Analytics) : Análisis con Python.
 ###### Python | Numpy | Pandas | Matplotlib | Plotly | Seaborn
@@ -22,7 +24,7 @@ En este proyecto se analiza con Python y sus librerias de visualización de dato
   
 [Acceder al proyecto completo.](https://github.com/mantiads/Portfolio-Mikel-Analytics)  
 
-
+![Data Science](/assets/img/Captura2.PNG){: .centrado}
 
 ## Proyecto 1 (Data Science) : Predicción de Malware (Modelo de Clasificación).
 ###### Python | Numpy | Pandas | Scikit-learn
@@ -44,7 +46,8 @@ Los resultados obtenidos para el umbral de 0.5 son los siguientes:
 - Recall: 0.65
 - Precisión: 0.61
 
+
 [Acceder al proyecto completo y conclusiones.](https://github.com/mantiads/Portfolio-Mikel/tree/main)
 
-
+![Data Science](/assets/img/Captura2.PNG){: .centrado}
 
