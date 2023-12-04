@@ -31,7 +31,7 @@ En este proyecto se analiza con Python y sus librerias de visualización de dato
 
 <table>
   <tr>
-    <td>![Data Analytics](/assets/img/1.png)</td>
+    <td><img src="/assets/img/1.png")</td>
     <td><img src="/assets/img/2.png" alt="Analisis AVProductInstalled"></td>
     <td><img src="/assets/img/3.png" alt="Analisis AVProductInstalled"></td>
   </tr>
