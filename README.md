@@ -4,12 +4,8 @@
 
 ![Data Analytics](/assets/img/clusters.PNG)
 
-El proyecto busca clasificar clientes mediante datos socioeconómicos y comportamientos de contratación. El dataset incluye información socioeconómica y de productos a lo largo del tiempo. Se aplican ingeniería de variables y el algoritmo Kmeans para crear 12 clusters con perfiles distintivos, como "Estudiante Activo Financieramente" o "Trabajador Inversionista Activo Bancariamente". Este enfoque proporciona patrones claros para la toma de decisiones estratégicas y comerciales. [Acceder al proyecto completo.](https://github.com/mantiads/Clustering/blob/main/README.md)
-
-
-
-
-
+El proyecto busca clasificar clientes mediante datos socioeconómicos y comportamientos de contratación. El dataset incluye información socioeconómica y de productos a lo largo del tiempo. Se aplican ingeniería de variables y el algoritmo Kmeans para crear 12 clusters con perfiles distintivos, como "Estudiante Activo Financieramente" o "Trabajador Inversionista Activo Bancariamente". Este enfoque proporciona patrones claros para la toma de decisiones estratégicas y comerciales. [Acceder al proyecto completo.](https://github.com/mantiads/Clustering/blob/main/README.md)  
+  
 ## Proyecto 2 (Data Analytics) : Análisis con Python.
 ###### Python | Numpy | Pandas | Matplotlib | Plotly | Seaborn
 ###### Analisis de datos
@@ -22,7 +18,7 @@ En este proyecto se analiza con Python y sus librerias de visualización de dato
 - Continuamos con un análisis socio-demográfico para la última de las particiones/imágenes.
 - Finalizamos profundizando en la variación de clientes y su comportamiendo de contratación a la hora de darse de alta en la empresa.
   
-[Acceder al proyecto completo.](https://github.com/mantiads/Portfolio-Mikel-Analytics)
+[Acceder al proyecto completo.](https://github.com/mantiads/Portfolio-Mikel-Analytics)  
 
 
 ## Proyecto 1 (Data Science) : Predicción de Malware (Modelo de Clasificación).
