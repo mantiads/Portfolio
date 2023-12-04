@@ -29,7 +29,7 @@ En este proyecto se analiza con Python y sus librerias de visualización de dato
 ###### Python | Numpy | Pandas | Scikit-learn
 ###### EDA | ETL | Optimización de hiperparametros | Selección de modelo | Evaluación del modelo
 
-![Data Science](/assets/img/captura.png){: .centrado}
+![Data Science](/assets/img/Captura.PNG){: .centrado}
 
 
 
