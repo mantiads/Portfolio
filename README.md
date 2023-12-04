@@ -22,7 +22,7 @@ En este proyecto se analiza con Python y sus librerias de visualización de dato
 - Continuamos con un análisis socio-demográfico para la última de las particiones/imágenes.
 - Finalizamos profundizando en la variación de clientes y su comportamiendo de contratación a la hora de darse de alta en la empresa.
   
-[Acceder al proyecto completo.](https://github.com/mantiads/Portfolio-Mikel-Analytics)  
+[Acceder al proyecto completo.](https://github.com/mantiads/Portfolio-Mikel-Analytics/blob/main/README.md)  
 
 ![Data Science](/assets/img/Captura2.PNG){: .centrado}
 
@@ -47,7 +47,7 @@ Los resultados obtenidos para el umbral de 0.5 son los siguientes:
 - Precisión: 0.61
 
 
-[Acceder al proyecto completo y conclusiones.](https://github.com/mantiads/Portfolio-Mikel/tree/main)
+[Acceder al proyecto completo y conclusiones.](https://github.com/mantiads/Portfolio-Mikel-Analytics/blob/main/README.md)
 
 ![Data Science](/assets/img/Captura2.PNG){: .centrado}
 
