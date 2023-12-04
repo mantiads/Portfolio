@@ -39,7 +39,7 @@ En este proyecto se analiza con Python y sus librerias de visualización de dato
 
 ![Data Analytics](/assets/img/10_dist_geo_treemap.png){: .centrado}
 
-![Data Analytics](/assets/img/1.PNG)
+![Data Analytics](/assets/img/1.png)
 
 
 Este proyecto, colaboración entre Kaggle y Microsoft, se enfoca en la predicción de malware desarrollado por Microsoft. La tarea principal consiste en desarrollar modelos de aprendizaje automático capaces de identificar y clasificar eficazmente el malware en sistemas informáticos, utilizando datos proporcionados por Microsoft sobre la configuración de los equipos.
