@@ -29,17 +29,9 @@ En este proyecto se analiza con Python y sus librerias de visualización de dato
 ###### Python | Numpy | Pandas | Scikit-learn
 ###### EDA | ETL | Optimización de hiperparametros | Selección de modelo | Evaluación del modelo
 
-<table>
-  <tr>
-    <td><img src="/assets/img/1.png")</td>
-    <td><img src="/assets/img/2.png" alt="Analisis AVProductInstalled"></td>
-    <td><img src="/assets/img/3.png" alt="Analisis AVProductInstalled"></td>
-  </tr>
-</table>
+![Data Science](/assets/img/captura.png){: .centrado}
 
-![Data Analytics](/assets/img/10_dist_geo_treemap.png){: .centrado}
 
-![Data Analytics](/assets/img/1.png)
 
 
 Este proyecto, colaboración entre Kaggle y Microsoft, se enfoca en la predicción de malware desarrollado por Microsoft. La tarea principal consiste en desarrollar modelos de aprendizaje automático capaces de identificar y clasificar eficazmente el malware en sistemas informáticos, utilizando datos proporcionados por Microsoft sobre la configuración de los equipos.
