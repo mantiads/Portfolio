@@ -4,7 +4,7 @@
 ###### Python | Pandas | Sklearn | Implicit |
 ###### Transformación de datos | Optimizador de hiperparametros | Recoemndación de productos
 
-Este proyecto se centra en la mejora de experiencias personalizadas a través de sistemas de recomendación, que desempeñan un papel crucial en diversas plataformas. La investigación se enfoca en la recomendación de productos basada en el comportamiento del usuario, utilizando un conjunto de datos de feedback implícito derivado de contrataciones de productos a lo largo de 17 meses. [Acceder al proyecto completo.](https://github.com/mantiads/Clustering/blob/main/README.md)  
+Este proyecto se centra en la mejora de experiencias personalizadas a través de sistemas de recomendación, que desempeñan un papel crucial en diversas plataformas. La investigación se enfoca en la recomendación de productos basada en el comportamiento del usuario, utilizando un conjunto de datos de feedback implícito derivado de contrataciones de productos a lo largo de 17 meses.[Acceder al proyecto completo.](https://github.com/mantiads/Recomendation_implicit/blob/main/README.md)
 
 
 
