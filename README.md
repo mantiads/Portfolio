@@ -1,6 +1,6 @@
 ![Data Science](/assets/img/Captura2.PNG){: .centrado}
 
-## Proyecto 4 (Data Science) : Sistema de recomendacion basado en Filtro Colaborativo con feedback implicito.
+## Proyecto 4 (Data Science) : Sistema de recomendacion basado en Filtro Colaborativo con feedback implícito.
 ###### Python | Pandas | Sklearn | Implicit |
 ###### Transformación de datos | Optimizador de hiperparametros | Recoemndación de productos
 
