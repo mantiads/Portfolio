@@ -2,7 +2,7 @@
 
 ## Proyecto 5 (Data Science) : Sistema de recomendación basado en Clasificación binaria.
 ###### Python | Pandas | Sklearn | Numpy | Matplotlib | Seaborn
-###### Optimización de hiperparametros | Recalibrado de datos | Funciones | Pipeline | Visualización
+###### Preprocesamiento de datos | Extracción de variables | Optimización de hiperparametros | Recalibrado de datos | Funciones | Pipeline | Visualización
 
 
 
