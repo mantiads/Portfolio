@@ -1,6 +1,6 @@
 ![Data Science](/assets/img/Captura2.PNG){: .centrado}
 
-## Proyecto 6 : Análisis de Sentimientos en Español mediante Finetuning de Transfer Learning.
+## Proyecto 6 : transformers : Transfer Learning + Fine Tuning. Análisis de Sentimientos en Español.
 ###### HuggingFace | transformers | datasets | Trainer | Python
 ###### Preprocesamiento de datos | Fine-Tunning | Predicciones
 
