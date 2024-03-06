@@ -1,7 +1,7 @@
 ![Data Science](/assets/img/Captura2.PNG){: .centrado}
 
 ## Proyecto 6 : NLP
-## transformers: Transfer Learning + Fine Tuning. 
+## Transformers: Transfer Learning + Fine Tuning. 
 ## Análisis de Sentimientos en Español.
 ###### HuggingFace | transformers | datasets | Trainer | Python
 ###### Preprocesamiento de datos | Fine-Tunning | Predicciones
