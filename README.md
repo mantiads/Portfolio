@@ -1,5 +1,17 @@
 ![Data Science](/assets/img/Captura2.PNG){: .centrado}
 
+## Proyecto 6 : Análisis de Sentimientos en Español mediante Finetuning de Transfer Learning.
+###### HuggingFace | transformers | datasets | Trainer | Python
+###### Preprocesamiento de datos | Fine-Tunning | Predicciones
+
+![Data Analytics](/assets/img/transfer_learning.PNG)
+
+El proyecto se centra en crear un modelo de análisis de sentimientos en español aprovechando el transfer learning. Este enfoque permite adaptar un modelo pre-entrenado a la tarea específica de clasificación de sentimientos, lo que resulta en un modelo eficaz y preciso. Con solo dos epoch de entrenamiento, logramos un impresionante accuracy del 0.93, destacando los beneficios del transfer learning en la creación de modelos de procesamiento de lenguaje natural.
+
+[Acceder al proyecto completo.](https://github.com/mantiads/trasnformers/blob/main/README.md)
+
+![Data Science](/assets/img/Captura2.PNG){: .centrado}
+
 ## Proyecto 5 (Data Science) : Sistema de recomendación basado en Clasificación binaria.
 ###### Python | Pandas | Sklearn | Numpy | Matplotlib | Seaborn
 ###### Preprocesamiento de datos | Extracción de variables | Optimización de hiperparametros | Recalibrado de datos | Funciones | Pipeline | Visualización
